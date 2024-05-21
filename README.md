@@ -4,7 +4,8 @@ A következő linken elérhető, ajánlom az okostelefonon való megnyítást, m
 - A miserend keresőjét és a megjelenítését nehézkesnek találtam és úgy voltam vele, hogy akkor miért ne hoznám ezt is egy tető alá, mert a szentek életéhez hozzá tartozik az olvasmányok olvasása és a miséken való részvétel, ezért egy egyszerűbb keresési lehetőséget megvalósítottam, néhány funkcióval, amit hasznosnak találtam (előzmények, mentés, térképen való elhelyezés: három kis pontra kattintva). 
 - A Szentek élete alkalmazás név megmaradt, habár nem csak a szentek életéről olvashatunk benne. A látásmód változott, hogy miért marad a név, az az, hogy mi éljük és lépjünk rá a szentek életének útjára, azáltal, hogy az egyházi segítséggel élünk, amelynek egy része itt az alkalmazásban található.
 
-Hogy miben lehetne beszállni a fejlesztésében:- zsolozsma integrációja (internet elérés nélkül is)
+Hogy miben lehetne beszállni a fejlesztésében:
+- zsolozsma integrációja (internet elérés nélkül is)
 - szentírás integrációja (internet elérés nélkül is, jegyezze meg, hogy hol tartunk az olvasásban, tudjunk könnyen navigálni benne, kereshető legyen...)
 - szentírás, az olvasmányoknál szokott lenni referencia, hogy honnan van az adott részlet, onnan át lehetne irányítani ide és a kontextusban elolvasni.
 - misék és templomok keresése oldalon jelenleg csak város alapján lehet keresni, a többi szűrőfeltétel alapján nem, azoknak az adatai jelenleg nem továbbítódnak a teszt szerver felé - local, vagy supabase, ezt előszőr localban lehetne megtervezni és megvalósítani, utána jó lenne, ha a miserend.hu szervere tudná fogadni az ehhez szükséges kéréseket. Ez nem igyekszik le váltani a miserend.hu
